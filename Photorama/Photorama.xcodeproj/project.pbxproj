@@ -13,6 +13,7 @@
 		73570A441DBFC25000AB6AA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73570A421DBFC25000AB6AA4 /* LaunchScreen.storyboard */; };
 		73570A4C1DBFC2A200AB6AA4 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73570A4B1DBFC2A200AB6AA4 /* PhotosViewController.swift */; };
 		73570A4E1DBFC8EB00AB6AA4 /* FlickrApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73570A4D1DBFC8EB00AB6AA4 /* FlickrApi.swift */; };
+		73570A501DBFD73000AB6AA4 /* PhotoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73570A4F1DBFD73000AB6AA4 /* PhotoStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		73570A451DBFC25000AB6AA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73570A4B1DBFC2A200AB6AA4 /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		73570A4D1DBFC8EB00AB6AA4 /* FlickrApi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrApi.swift; sourceTree = "<group>"; };
+		73570A4F1DBFD73000AB6AA4 /* PhotoStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				73570A391DBFC25000AB6AA4 /* AppDelegate.swift */,
 				73570A4B1DBFC2A200AB6AA4 /* PhotosViewController.swift */,
 				73570A4D1DBFC8EB00AB6AA4 /* FlickrApi.swift */,
+				73570A4F1DBFD73000AB6AA4 /* PhotoStore.swift */,
 				73570A3D1DBFC25000AB6AA4 /* Main.storyboard */,
 				73570A401DBFC25000AB6AA4 /* Assets.xcassets */,
 				73570A421DBFC25000AB6AA4 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				73570A3A1DBFC25000AB6AA4 /* AppDelegate.swift in Sources */,
 				73570A4C1DBFC2A200AB6AA4 /* PhotosViewController.swift in Sources */,
+				73570A501DBFD73000AB6AA4 /* PhotoStore.swift in Sources */,
 				73570A4E1DBFC8EB00AB6AA4 /* FlickrApi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
